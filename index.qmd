@@ -17,8 +17,8 @@ listing:
 
 ```{=html}
 <div class="cinta" aria-hidden="true"><div class="cinta-texto">
-<span>✦ bienvenide al jardín ✦ ciencia de escarabajos ✦ cuentos ✦ juguetes para escribir y jugar ✦ pasa, estás en tu casa ✦</span>
-<span>✦ bienvenide al jardín ✦ ciencia de escarabajos ✦ cuentos ✦ juguetes para escribir y jugar ✦ pasa, estás en tu casa ✦</span>
+<span>✦ Bienvenidx! ✦ Biodiversidad ✦ Cuentos ✦ Curiosidades ✦ pasa, estás en tu casa ✦</span>
+<span>✦ Wellcome ✦ Biodiversity ✦ Short stories ✦ Curiosities ✦ come in, you're home ✦</span>
 </div></div>
 ```
 
@@ -33,14 +33,19 @@ listing:
 ::: {.idioma lang="es"}
 ¡Hola! Soy Virix.
 Tal vez, por géminis, tengo doble vocación: hago ciencia y escribo cuentos. Por lo mismo, no creo en los horóscopos y aún así puse esto.
+
 Mi investigación trata sobre la biodiversidad en el espacio y tiempo. Mi corazón le pertenece a los escarabajos coprófagos, pero eso no evita que me meta a trabajar con otros insectos, plantas y (a regañadientes) con vertebrados.
+
 Me interesa crear ficción con voces poco escuchadas: seres no humanos, mujeres, infancias. Publiqué dos libros para infancias (Un librito de bichos y Es natural cambiar), y soy coautora de una obra de teatro La dignidad del insecto, vida y muerte de lo imperceptible.
 
 :::
 
 ::: {.idioma lang="en" hidden=""}
+¡Hello! I'm Virix.
 Since I’m a Gemini, I have a dual calling: scientific research and writing. For that very reason, I don’t believe in horoscopes. Yet here I am, mentioning it anyway.
+
 My research focuses on biodiversity across space and time. My heart belongs to dung beetles, though that doesn’t stop me from working with other insects, plants, and (reluctantly) vertebrates.
+
 I am interested in creating fiction that gives voice to the underrepresented: non-human beings, women, and children. I have published two children's books and co-authored a play.
 
 :::
