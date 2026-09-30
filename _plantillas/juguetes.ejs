@@ -1,0 +1,21 @@
+```{=html}
+<div class="tarjetas list">
+<% for (const item of items) { %>
+  <a class="tarjeta" href="<%- item.path %>" <%= metadataAttrs(item) %>>
+    <div class="tarjeta-imagen fondo-<%= item.fondo || 'pop' %>">
+      <% if (item.image) { %>
+        <img src="<%- item.image %>" alt="">
+      <% } else { %>
+        <span class="glifo" aria-hidden="true"><%= item.glifo || '✦' %></span>
+      <% } %>
+    </div>
+    <div class="tarjeta-cuerpo">
+      <span class="tarjeta-titulo"><%= item.title %></span>
+      <span class="tarjeta-texto"><%= item.description %></span>
+      <% if (item.etiqueta) { %><span class="etiqueta"><%= item.etiqueta %></span><% } %>
+    </div>
+  </a>
+<% } %>
+  <div class="proximamente"><span aria-hidden="true">+</span><span>próximamente</span></div>
+</div>
+```

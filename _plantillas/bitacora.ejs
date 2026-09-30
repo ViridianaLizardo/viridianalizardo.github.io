@@ -1,0 +1,21 @@
+```{=html}
+<div class="bitacora list">
+<% for (const item of items) { %>
+  <article class="ventana entrada" <%= metadataAttrs(item) %>>
+    <div class="ventana-barra"><span><%= item.date %></span><span class="botoncitos" aria-hidden="true"><i></i><i></i></span></div>
+    <div class="ventana-cuerpo">
+      <% if (item.image) { %><a href="<%- item.path %>"><img src="<%- item.image %>" alt=""></a><% } %>
+      <h2><a href="<%- item.path %>"><%= item.title %></a></h2>
+      <% if (item.description) { %><div class="entrada-texto"><%= item.description %></div><% } %>
+      <div class="entrada-pie">
+        <% for (const cat of (item.categories || [])) { %><span class="etiqueta">#<%= cat %></span><% } %>
+        <a class="mas" href="<%- item.path %>">entrar →</a>
+      </div>
+    </div>
+  </article>
+<% } %>
+<% if (items.length === 0) { %>
+  <p class="vacio">Todavía no hay entradas. Pronto.</p>
+<% } %>
+</div>
+```

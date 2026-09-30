@@ -1,0 +1,22 @@
+---
+title: "Bitácora"
+page-layout: full
+title-block-style: none
+listing:
+  id: bitacora
+  contents: "posts/*/index.qmd"
+  sort: "date desc"
+  date-format: "D MMM YYYY"
+  categories: true
+  feed: true
+  page-size: 15
+  template: _plantillas/bitacora.ejs
+---
+
+::: {.titulo-seccion}
+# bitácora ✎
+Notas cortas, cosas que encontré, avances de proyectos.
+:::
+
+::: {#bitacora}
+:::

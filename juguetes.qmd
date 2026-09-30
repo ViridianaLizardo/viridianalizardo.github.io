@@ -1,0 +1,19 @@
+---
+title: "Juguetes"
+page-layout: full
+title-block-style: none
+body-classes: ancho
+listing:
+  id: juguetes
+  contents: juguetes.yml
+  sort: false
+  template: _plantillas/juguetes.ejs
+---
+
+::: {.titulo-seccion}
+# juguetes ✧
+Cosas pequeñas para jugar, escribir y aprender. Elige una.
+:::
+
+::: {#juguetes}
+:::

@@ -1,0 +1,12 @@
+---
+title: "Hola, jardín"
+date: 2026-09-29
+description: "[Texto corto de la entrada. En la bitácora se muestra completo, como en tumblr; si la entrada es solo esto, no hace falta escribir nada abajo.]"
+categories: [jardín]
+# image: foto.jpg     # opcional: se muestra grande en la bitácora
+draft: true           # bórralo (o pon false) para publicarla
+---
+
+[Aquí va el texto largo, si lo hay. Markdown normal: **negritas**, *cursivas*, [enlaces](https://quarto.org), imágenes:]
+
+<!-- ![](foto.jpg) -->

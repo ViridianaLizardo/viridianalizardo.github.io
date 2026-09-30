@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - "experimentos/**"   # juguetes de un solo archivo: se copian tal cual
+    - "cv/*.pdf"
+
+lang: es
+
+website:
+  title: "Viridiana Lizardo"
+  site-url: "https://viridianalizardo.github.io"
+  description: "Escarabajos, Análisis de datos, Literatura, y todo lo demás."
+  favicon: imagenes/escarabajo.svg
+  # Sin navbar de Quarto: el encabezado propio vive en _parciales/cabecera.html
+
+execute:
+  freeze: auto   # los posts con código R se renderizan en tu PC; GitHub no necesita R
+
+format:
+  html:
+    theme: [default, estilos.scss]
+    toc: false
+    smooth-scroll: true
+    include-in-header: _parciales/head.html
+    include-before-body: _parciales/cabecera.html
+    include-after-body: _parciales/pie.html

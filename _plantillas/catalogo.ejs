@@ -1,0 +1,19 @@
+```{=html}
+<div class="tarjetas catalogo list">
+<% for (const item of items) { %>
+  <a class="tarjeta" href="<%- item.path %>" <%= metadataAttrs(item) %>>
+    <div class="tarjeta-imagen fondo-soft">
+      <% if (item.image) { %><img src="<%- item.image %>" alt="Portada de <%= item.title %>"><% } else { %><span class="glifo" aria-hidden="true">❦</span><% } %>
+    </div>
+    <div class="tarjeta-cuerpo">
+      <span class="tarjeta-titulo"><%= item.title %></span>
+      <% if (item.description) { %><span class="tarjeta-texto"><%= item.description %></span><% } %>
+      <% for (const cat of (item.categories || [])) { %><span class="etiqueta"><%= cat %></span><% } %>
+    </div>
+  </a>
+<% } %>
+<% if (items.length === 0) { %>
+  <p class="vacio">Aquí aparecerán mis libros y proyectos.</p>
+<% } %>
+</div>
+```
