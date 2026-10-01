@@ -65,8 +65,8 @@ I am interested in <b>creating fiction</b> that gives voice to the underrepresen
 Macroecología y biogeografía ✦ Scarabaeinae ✦ Análisis de datos ✦ Creación literaria ✦ Divulgación de la ciencia
 
 ::: {.botonera}
-[CV (ES) ↓](cv/cv-es.pdf){.boton .boton-pop}
-[CV (EN) ↓](cv/cv-en.pdf){.boton .boton-pop}
+[CV (ES) ↓](https://github.com/ViridianaLizardo/CV/blob/master/pdf/CV-es.pdf){.boton .boton-pop}
+[CV (EN) ↓](https://github.com/ViridianaLizardo/CV/blob/master/pdf/CV-en.pdf){.boton .boton-pop}
 [CV completo →](https://viridianalizardo.github.io/CV/){.boton .boton-acc}
 [Correo ✉](mailto:lizardo.viridiana@gmail.com){.boton}
 [ORCID](https://orcid.org/0000-0003-3958-3373){.boton}
