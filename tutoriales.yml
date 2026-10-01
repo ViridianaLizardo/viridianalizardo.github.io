@@ -1,9 +1,13 @@
 # Una entrada por tutorial o repositorio. Aparecen en este orden.
 # Mismos campos que curiosidades.yml:
 #   title, path (enlace al repo o a su página), description, glifo o image, fondo (pop | soft | dot | acc), etiqueta
-# Mientras esta lista esté vacía, la página muestra solo la tarjeta de "próximamente".
 
-[]
+- title: SDM 101
+  path: https://viridianalizardo.github.io/SDM_101/
+  description: Modelado de distribución de especies en R, de los registros de GBIF a un mapa de idoneidad con MaxEnt.
+  glifo: "◉"
+  fondo: soft
+  etiqueta: R
 
 # - title: Nombre del tutorial
 #   path: https://github.com/ViridianaLizardo/nombre-del-repo
