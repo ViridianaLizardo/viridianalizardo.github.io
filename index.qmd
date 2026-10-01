@@ -60,14 +60,16 @@ I am interested in <b>creating fiction</b> that gives voice to the underrepresen
 <div class="ventana-barra"><span>About_Me.txt</span><span class="botoncitos" aria-hidden="true"><i></i><i></i></span></div>
 
 ::: {.ventana-cuerpo}
-**Consultora independiente · IBUNAM-PINCC**
+**Investigadora independiente · IBUNAM-PINCC**
 
 Macroecología y biogeografía ✦ Scarabaeinae ✦ Análisis de datos ✦ Creación literaria ✦ Divulgación de la ciencia
 
 ::: {.botonera}
 [CV completo →](https://viridianalizardo.github.io/CV/){.boton .boton-acc}
 [Correo ✉](mailto:lizardo.viridiana@gmail.com){.boton .boton-pop}
+<br>
 [ORCID](https://orcid.org/0000-0003-3958-3373){.boton}
+[ResearchGate](https://github.com/https://www.researchgate.net/profile/Viridiana-Lizardo){.boton}
 [Scholar](https://scholar.google.com/citations?user=mIFIwsMAAAAJ){.boton}
 [GitHub](https://github.com/ViridianaLizardo){.boton}
 :::
