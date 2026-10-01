@@ -3,3 +3,6 @@
 .Rproj.user
 .Rhistory
 .DS_Store
+.positai
+
+**/*.quarto_ipynb
