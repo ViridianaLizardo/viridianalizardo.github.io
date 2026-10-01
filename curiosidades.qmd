@@ -1,0 +1,19 @@
+---
+title: "Curiosidades"
+page-layout: full
+title-block-style: none
+body-classes: ancho
+listing:
+  id: curiosidades
+  contents: curiosidades.yml
+  sort: false
+  template: _plantillas/juguetes.ejs
+---
+
+::: {.titulo-seccion}
+# gabinete de curiosidades ✧
+Cosas que hago por gusto: juegos, herramientas y experimentos de temas muy variados.
+:::
+
+::: {#curiosidades}
+:::

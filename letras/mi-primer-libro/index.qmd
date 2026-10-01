@@ -1,0 +1,18 @@
+---
+title: "[Título del libro]"
+date: 2026-09-29           # fecha de publicación (ordena el catálogo)
+description: "[Una línea: editorial, año, género.]"
+categories: [libro]        # libro | publicación | proyecto
+# image: portada.jpg       # portada vertical (2:3)
+draft: true                # bórralo para publicarla
+---
+
+[Sinopsis breve.]
+
+## Dónde conseguirlo
+
+- [Editorial / librería](https://ejemplo.com)
+
+## Presentaciones y eventos
+
+- **[fecha]** · [Lugar, ciudad] · [Presentación con …]

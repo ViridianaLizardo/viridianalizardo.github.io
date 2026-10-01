@@ -17,10 +17,12 @@ Para verlo en tu PC antes de subir: en RStudio abre el proyecto y corre `quarto 
 |---|---|
 | Cambiar el "sobre mí" o el bloque de CV | `index.qmd` |
 | Subir el CV | `cv/cv-es.pdf` y `cv/cv-en.pdf` (mismos nombres) |
-| Escribir en la bitácora | copia `posts/2026-09-29-hola-jardin/` con otra fecha y nombre, edita `index.qmd` |
-| Agregar un libro o proyecto | copia `catalogo/mi-primer-libro/` |
-| Agregar un juguete | 4–6 líneas en `juguetes.yml` |
-| Un juguete de un solo archivo HTML | `experimentos/nombre/index.html` y en `juguetes.yml` pon `path: experimentos/nombre/` |
+| Escribir en el blog | copia `posts/2026-09-29-hola-jardin/` con otra fecha y nombre, edita `index.qmd` |
+| Agregar un libro, obra o cuento (Letras) | copia `letras/mi-primer-libro/` |
+| Agregar un artículo (Ciencia) | pégalo en APA bajo su año en `ciencia.qmd` |
+| Agregar un tutorial | 4–6 líneas en `tutoriales.yml` |
+| Agregar una curiosidad | 4–6 líneas en `curiosidades.yml` |
+| Una curiosidad de un solo archivo HTML | `experimentos/nombre/index.html` y en `curiosidades.yml` pon `path: experimentos/nombre/` |
 | Colores | bloque **PALETA** al inicio de `estilos.scss` |
 | Menú, nombre, lema | `_parciales/cabecera.html` |
 | Botones 88×31 del pie | `_parciales/pie.html` |
@@ -28,7 +30,7 @@ Para verlo en tu PC antes de subir: en RStudio abre el proyecto y corre `quarto 
 Notas:
 
 - **Borradores:** `draft: true` en el encabezado de un post o ficha = no se publica. Quítalo para publicarlo.
-- **Bitácora estilo tumblr:** lo que pongas en `description:` se ve completo en la lista. Si la entrada es corta, basta con eso.
+- **Blog estilo tumblr:** lo que pongas en `description:` se ve completo en la lista. Si la entrada es corta, basta con eso.
 - **Posts con código R:** renderízalos en tu PC (`quarto render posts/…/index.qmd`) y sube también la carpeta `_freeze/`. GitHub no tiene R instalado.
-- **GIFs y pixel art:** guárdalos en `imagenes/` (o en la carpeta del post) y úsalos como `image:` en posts, fichas o juguetes.
+- **GIFs y pixel art:** guárdalos en `imagenes/` (o en la carpeta del post) y úsalos como `image:` en posts, fichas, tutoriales o curiosidades.
 - **Cursor propio:** instrucciones al final de `estilos.scss`.

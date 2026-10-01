@@ -1,0 +1,19 @@
+---
+title: "Letras"
+page-layout: full
+title-block-style: none
+body-classes: ancho
+listing:
+  id: letras
+  contents: "letras/*/index.qmd"
+  sort: "date desc"
+  template: _plantillas/catalogo.ejs
+---
+
+::: {.titulo-seccion}
+# letras ❦
+Libros, teatro y cuentos, con sus presentaciones y eventos.
+:::
+
+::: {#letras}
+:::

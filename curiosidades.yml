@@ -1,0 +1,23 @@
+# Una entrada por curiosidad. Aparecen en este orden.
+# Campos:
+#   title        nombre
+#   path         enlace (su repo con GitHub Pages, o experimentos/nombre/ para los de un solo archivo)
+#   description  una línea
+#   glifo        símbolo grande si no hay imagen (¶ ✎ ◉ ✦ ► ☾ ♪ …)
+#   image        opcional: captura o GIF en imagenes/ (reemplaza al glifo)
+#   fondo        pop | soft | dot | acc
+#   etiqueta     escritura | juego | ciencia | experimento …
+
+- title: Cuento.exe
+  path: https://viridianalizardo.github.io/ideas_escritura/
+  description: Máquina de ideación narrativa para salir del bloqueo creativo.
+  glifo: "¶"
+  fondo: pop
+  etiqueta: escritura
+
+# - title: Nombre del juego
+#   path: https://viridianalizardo.github.io/nombre-del-repo/
+#   description: Una línea sobre qué es.
+#   image: imagenes/juego.gif
+#   fondo: soft
+#   etiqueta: juego

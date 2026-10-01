@@ -1,0 +1,19 @@
+---
+title: "Tutoriales"
+page-layout: full
+title-block-style: none
+body-classes: ancho
+listing:
+  id: tutoriales
+  contents: tutoriales.yml
+  sort: false
+  template: _plantillas/juguetes.ejs
+---
+
+::: {.titulo-seccion}
+# tutoriales ⚙
+Guías y repositorios para aprender a hacer cosas: R, análisis espacial, modelado y más.
+:::
+
+::: {#tutoriales}
+:::

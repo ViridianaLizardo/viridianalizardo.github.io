@@ -1,0 +1,56 @@
+---
+title: "Ciencia"
+title-block-style: none
+body-classes: papel
+---
+
+::: {.titulo-seccion}
+# ciencia ✦
+Artículos científicos publicados. La lista completa y actualizada está en [ORCID](https://orcid.org/0000-0003-3958-3373) y [Google Scholar](https://scholar.google.com/citations?user=mIFIwsMAAAAJ).
+:::
+
+<!--
+Para agregar un artículo: pégalo bajo su año en formato APA.
+Tu nombre va en **negritas**; revista, volumen y nombres científicos en *cursivas*.
+Si el año no existe, crea un encabezado nuevo con "## AÑO" arriba de los demás.
+-->
+
+::: {.referencias}
+
+## 2026
+
+**Lizardo, V.**, & Ruggiero, A. (2026). Biogeographic boundaries and angiosperm phylogenetic endemism: Highlighting the evolutionary complexity of the South American Transition Zone. *Journal of Biogeography*.
+
+## 2025
+
+**Lizardo, V.**, Ruggiero, A., & Morrone, J. J. (2025). Patrones de riqueza de especies y conservadurismo filogenético del nicho ecológico en la Zona de Transición Mexicana: Evidencia y herramientas para su estudio. *Revista Mexicana de Biodiversidad*, *96*, e965347.
+
+## 2024
+
+**Lizardo, V.**, Escobar, F., Martínez-Meyer, E., & Morrone, J. J. (2024). Adaptive shifts in Phanaeini dung beetles of the Mexican plateau cenocron in the Mexican transition zone. *Zoologica Scripta*. <https://doi.org/10.1111/zsc.12656>
+
+Moctezuma, V., **Lizardo, V.**, Arias-Del Razo, I., & Ramírez-Ponce, A. (2024). Overcoming the Wallacean shortfall in sky-islands of central Mexico: The case of copro-necrophagous beetles and two national parks. *Journal of Insect Conservation*. <https://doi.org/10.1007/s10841-024-00598-9>
+
+**Lizardo, V.**, García Trejo, E. A., & Morrone, J. J. (2024). Niche conservatism and convergence in birds of three cenocrons in the Mexican Transition Zone. *PeerJ*, *12*, e16664. <https://doi.org/10.7717/peerj.16664>
+
+## 2023
+
+Moctezuma, V., Hernández, B., Sánchez-Huerta, J. L., **Lizardo, V.**, Quiroz-Rocha, G. A., & Navarrete-Heredia, J. L. (2023). Two new species from the Mexican Pacific Slope and new distributional records of *Onthophagus* Latreille, 1802 (Coleoptera, Scarabaeidae). *Journal of Asia-Pacific Entomology*, *26*(1), 102015. <https://doi.org/10.1016/j.aspen.2022.102015>
+
+## 2022
+
+**Lizardo, V.**, Moctezuma, V., & Escobar, F. (2022). Distribution, regionalization, and diversity of the dung beetle genus *Phanaeus* MacLeay (Coleoptera: Scarabaeidae) using species distribution models. *Zootaxa*, *5213*(5), 546–568. <https://doi.org/10.11646/zootaxa.5213.5.4>
+
+## 2021
+
+Moctezuma, V., Halffter, G., & **Lizardo, V.** (2021). The *Phanaeus tridens* species group (Coleoptera: Scarabaeoidea): A dung beetle group with genital morphological stasis but a changing ecological niche. *Acta Entomologica Musei Nationalis Pragae*, 447–482. <https://doi.org/10.37520/aemnp.2021.025>
+
+## 2017
+
+**Lizardo, V.**, Escobar, F., & Rojas-Soto, O. (2017). Diversity and distribution of Phanaeini (Coleoptera: Scarabaeidae: Scarabaeinae) in Mexico. *Zootaxa*, *4358*(2), 271. <https://doi.org/10.11646/zootaxa.4358.2.3>
+
+## 2016
+
+**Lizardo, V.**, & Castellanos-Vargas, I. (2016). Dung beetle community response to vegetation type and season in an arid zone of the Mexican Plateau. *Southwestern Entomologist*, *41*(2), 441–452. <https://doi.org/10.3958/059.041.0215>
+
+:::

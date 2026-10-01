@@ -1,0 +1,22 @@
+---
+title: "Blog"
+page-layout: full
+title-block-style: none
+listing:
+  id: blog
+  contents: "posts/*/index.qmd"
+  sort: "date desc"
+  date-format: "D MMM YYYY"
+  categories: true
+  feed: true
+  page-size: 15
+  template: _plantillas/bitacora.ejs
+---
+
+::: {.titulo-seccion}
+# blog ✎
+Notas cortas, cosas que encontré, avances de proyectos.
+:::
+
+::: {#blog}
+:::

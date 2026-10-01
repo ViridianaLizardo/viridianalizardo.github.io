@@ -222,6 +222,11 @@ blockquote { border-left: 4px solid var(--pop); color: var(--ink); }
 .quarto-listing-category .category { color: var(--acc); cursor: pointer; }
 .quarto-listing-category .category.active { color: var(--ink); font-weight: 800; }
 
+// ============ CIENCIA (referencias en APA) ============
+.referencias h2 { font-size: 26px; margin-top: 28px; }
+.referencias p { padding-left: 2em; text-indent: -2em; line-height: 1.6; }
+.referencias a { word-break: break-all; }
+
 // ============ PÁGINAS DE PAPEL (posts y fichas) ============
 .papel main.content {
   background: var(--paper); border: 2px solid var(--line); border-radius: 14px;

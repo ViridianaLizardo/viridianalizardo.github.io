@@ -1,0 +1,13 @@
+# Una entrada por tutorial o repositorio. Aparecen en este orden.
+# Mismos campos que curiosidades.yml:
+#   title, path (enlace al repo o a su página), description, glifo o image, fondo (pop | soft | dot | acc), etiqueta
+# Mientras esta lista esté vacía, la página muestra solo la tarjeta de "próximamente".
+
+[]
+
+# - title: Nombre del tutorial
+#   path: https://github.com/ViridianaLizardo/nombre-del-repo
+#   description: Una línea sobre qué se aprende.
+#   glifo: "⚙"
+#   fondo: soft
+#   etiqueta: R

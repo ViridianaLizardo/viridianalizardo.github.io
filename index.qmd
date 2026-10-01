@@ -8,7 +8,7 @@ listing:
   id: novedades
   contents:
     - "posts/*/index.qmd"
-    - "catalogo/*/index.qmd"
+    - "letras/*/index.qmd"
   sort: "date desc"
   max-items: 4
   date-format: "MMM YYYY"
@@ -57,7 +57,7 @@ I am interested in <b>creating fiction</b> that gives voice to the underrepresen
 ::::: {.columna}
 
 :::: {.ventana}
-<div class="ventana-barra"><span>cv.pdf</span><span class="botoncitos" aria-hidden="true"><i></i><i></i></span></div>
+<div class="ventana-barra"><span>ficha.txt</span><span class="botoncitos" aria-hidden="true"><i></i><i></i></span></div>
 
 ::: {.ventana-cuerpo}
 **Consultora independiente · IBUNAM-PINCC**
@@ -67,6 +67,8 @@ Macroecología y biogeografía ✦ Scarabaeinae ✦ Análisis de datos ✦ Creac
 ::: {.botonera}
 [CV (ES) ↓](cv/cv-es.pdf){.boton .boton-pop}
 [CV (EN) ↓](cv/cv-en.pdf){.boton .boton-pop}
+[CV completo →](https://viridianalizardo.github.io/CV/){.boton .boton-acc}
+[Correo ✉](mailto:lizardo.viridiana@gmail.com){.boton}
 [ORCID](https://orcid.org/0000-0003-3958-3373){.boton}
 [Scholar](https://scholar.google.com/citations?user=mIFIwsMAAAAJ){.boton}
 [GitHub](https://github.com/ViridianaLizardo){.boton}
