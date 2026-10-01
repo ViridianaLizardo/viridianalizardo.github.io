@@ -1,6 +1,7 @@
 ---
 title: "Viridiana Lizardo"
 pagetitle: "Viridiana Lizardo"
+description: "Escarabajos, análisis de datos, literatura y todo lo demás."
 page-layout: full
 title-block-style: none
 body-classes: portada ancho

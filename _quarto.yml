@@ -12,6 +12,9 @@ website:
   site-url: "https://viridianalizardo.github.io"
   description: "Escarabajos, Análisis de datos, Literatura, y todo lo demás."
   favicon: imagenes/escarabajo.svg
+  image: imagenes/portada.png   # vista previa al compartir en redes (1200×630)
+  open-graph: true
+  twitter-card: true
   # Sin navbar de Quarto: el encabezado propio vive en _parciales/cabecera.html
 
 execute:
