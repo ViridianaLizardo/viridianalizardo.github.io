@@ -25,7 +25,7 @@ listing:
 :::::: {.rejilla-2}
 
 ::::: {.ventana}
-<div class="ventana-barra"><span>sobre_mí.txt</span><span class="botoncitos" aria-hidden="true"><i></i><i></i><i></i></span></div>
+<div class="ventana-barra"><span>Greetings.txt</span><span class="botoncitos" aria-hidden="true"><i></i><i></i><i></i></span></div>
 
 :::: {.ventana-cuerpo}
 <div class="idiomas" role="group" aria-label="Idioma" data-idiomas><button type="button" data-lang="es" aria-pressed="true">español</button><button type="button" data-lang="en" aria-pressed="false">english</button></div>
@@ -57,7 +57,7 @@ I am interested in <b>creating fiction</b> that gives voice to the underrepresen
 ::::: {.columna}
 
 :::: {.ventana}
-<div class="ventana-barra"><span>ficha.txt</span><span class="botoncitos" aria-hidden="true"><i></i><i></i></span></div>
+<div class="ventana-barra"><span>About_Me.txt</span><span class="botoncitos" aria-hidden="true"><i></i><i></i></span></div>
 
 ::: {.ventana-cuerpo}
 **Consultora independiente · IBUNAM-PINCC**
@@ -65,10 +65,8 @@ I am interested in <b>creating fiction</b> that gives voice to the underrepresen
 Macroecología y biogeografía ✦ Scarabaeinae ✦ Análisis de datos ✦ Creación literaria ✦ Divulgación de la ciencia
 
 ::: {.botonera}
-[CV (ES) ↓](https://github.com/ViridianaLizardo/CV/blob/master/pdf/CV-es.pdf){.boton .boton-pop}
-[CV (EN) ↓](https://github.com/ViridianaLizardo/CV/blob/master/pdf/CV-en.pdf){.boton .boton-pop}
 [CV completo →](https://viridianalizardo.github.io/CV/){.boton .boton-acc}
-[Correo ✉](mailto:lizardo.viridiana@gmail.com){.boton}
+[Correo ✉](mailto:lizardo.viridiana@gmail.com){.boton .boton-pop}
 [ORCID](https://orcid.org/0000-0003-3958-3373){.boton}
 [Scholar](https://scholar.google.com/citations?user=mIFIwsMAAAAJ){.boton}
 [GitHub](https://github.com/ViridianaLizardo){.boton}
@@ -77,7 +75,7 @@ Macroecología y biogeografía ✦ Scarabaeinae ✦ Análisis de datos ✦ Creac
 ::::
 
 :::: {.ventana}
-<div class="ventana-barra"><span>novedades.log</span><span class="parpadea" aria-hidden="true">●</span></div>
+<div class="ventana-barra"><span>Updates.log</span><span class="parpadea" aria-hidden="true">●</span></div>
 
 ::: {.ventana-cuerpo}
 ::: {#novedades}
