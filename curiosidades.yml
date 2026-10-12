@@ -8,6 +8,13 @@
 #   fondo        pop | soft | dot | acc
 #   etiqueta     escritura | juego | ciencia | experimento …
 
+- title: GIS-stitch
+  path: https://viridianalizardo.github.io/GIS_stitch/
+  description: Escribe tu año de nacimiento y borda cuánto cambió el clima de México desde entonces.
+  image: imagenes/gis-stitch.png
+  fondo: dot
+  etiqueta: ciencia
+
 - title: Cuento.exe
   path: https://viridianalizardo.github.io/ideas_escritura/
   description: Máquina de ideación narrativa para salir del bloqueo creativo.
