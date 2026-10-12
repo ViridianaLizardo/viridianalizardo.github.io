@@ -9,7 +9,7 @@
 #   etiqueta     escritura | juego | ciencia | experimento …
 
 - title: GIS-stitch
-  path: https://viridianalizardo.github.io/GIS_stitch/
+  path: https://viridianalizardo.github.io/GIS-stitch/
   description: Escribe tu año de nacimiento y borda cuánto cambió el clima de México desde entonces.
   image: imagenes/gis-stitch.png
   fondo: dot
