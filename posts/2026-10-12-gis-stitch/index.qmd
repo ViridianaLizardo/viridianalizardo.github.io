@@ -2,7 +2,7 @@
 title: "GIS-stitch"
 subtitle: "Visualizar el cambio climático usando un Sistema de Información Geográfica basado en punto de cruz"
 date: 2026-10-12
-description: "Calculé cuánto cambió el clima de México en mi tiempo de vida y lo convertí en un patrón de punto de cruz. Aquí están los datos, el código y el mapa; [genera el tuyo en GIS-stitch](https://viridianalizardo.github.io/GIS_stitch/)."
+description: "Calculé cuánto cambió el clima de México en mi tiempo de vida y lo convertí en un patrón de punto de cruz."
 categories: [ciencia, datos, bordado, cambio climático]
 image: portada.png
 toc: true
@@ -28,9 +28,11 @@ knitr::opts_chunk$set(message = FALSE, warning = FALSE, fig.align = "center")
 tu patrón para bordar.
 :::
 
+![](header.jpg)
+
 ## Cambio climático en mi tiempo de vida
 
-Nací en 1989. Un año antes, se estableció el **Palnel intergubernamental
+Nací en 1989. Un año antes, se estableció el **Panel intergubernamental
 sobre el Cambio Climático** ([IPCC](https://www.ipcc.ch/ "IPCC"), por
 sus siglas en inglés). Cuando yo cumplí 14 meses de edad, completó su
 primer reporte: estaban seguros de que las emisiones de gases de
@@ -43,7 +45,7 @@ durante los últimos 100 años.
 Para 2015, se firmó el Acuerdo de París dónde se acordó un esfuerzo
 conjunto para evitar llegar al aumento de [1.5º
 C](https://www.ipcc.ch/site/assets/uploads/sites/2/2019/06/SR15_Headline-statements.pdf "Headline Statements from the Summary for Policymakers").
-Oficialmente se aunció este [2 de septiembre de
+Oficialmente se anunció este [2 de septiembre de
 2026](https://www.unep.org/news-and-stories/press-release/unep-world-set-cross-15degc-global-warming-can-still-limit-adapt-and "Nature"),
 que **hemos pasado ese umbral**. Los riesgos e impactos por encima de
 los 1.5 °C se intensifican (súbita o gradualmente) con cada fracción
