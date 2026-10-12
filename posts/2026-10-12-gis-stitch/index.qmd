@@ -16,7 +16,7 @@ editor:
 ```{r setup, include = FALSE}
 # El análisis vive en el repositorio GIS_stitch: el código de este post corre desde ahí.
 # Con `freeze: auto` el post se renderiza solo en esta computadora; GitHub publica el resultado.
-GIS_STITCH <- Sys.getenv("GIS_STITCH", "C:/Users/USER/Documents/GitHub/GIS_stitch")
+GIS_STITCH <- Sys.getenv("GIS_STITCH", "C:/Users/USER/Documents/GitHub/GIS-stitch")
 library(ggplot2)
 knitr::opts_knit$set(root.dir = GIS_STITCH)
 knitr::opts_chunk$set(message = FALSE, warning = FALSE, fig.align = "center")
