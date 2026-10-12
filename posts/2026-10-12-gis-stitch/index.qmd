@@ -24,7 +24,7 @@ knitr::opts_chunk$set(message = FALSE, warning = FALSE, fig.align = "center")
 
 ::: {.callout-note appearance="simple"}
 **Genera tu propio mapa** Escribe tu año de nacimiento en
-[GIS-stitch](https://viridianalizardo.github.io/GIS_stitch/) y descarga
+[GIS-stitch](https://viridianalizardo.github.io/GIS-stitch/) y descarga
 tu patrón para bordar.
 :::
 
