@@ -15,6 +15,13 @@
   fondo: pop
   etiqueta: escritura
 
+- title: Conejo-encuesta
+  path: https://viridianalizardo.github.io/conejo-encuesta/
+  description: Responde 10 preguntas y descubre qué conejo eres.
+  image: imagenes/conejo.png
+  fondo: soft
+  etiqueta: juego
+
 # - title: Nombre del juego
 #   path: https://viridianalizardo.github.io/nombre-del-repo/
 #   description: Una línea sobre qué es.
